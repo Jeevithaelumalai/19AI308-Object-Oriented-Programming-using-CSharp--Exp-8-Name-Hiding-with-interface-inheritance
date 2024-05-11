@@ -30,8 +30,8 @@ SuperMario's Ability prints "This is inside SuperMario", Mario's prints "This is
 
 ## PROGRAM :
 
-### DEVELOPED BY : ABRIN NISHA A
-### REG NO : 212222230005
+### DEVELOPED BY :JEEVITHA E
+### REG NO : 212222230054
 
 ```
 using System;
